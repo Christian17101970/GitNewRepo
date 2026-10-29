@@ -33,3 +33,10 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+#Files CsC
+sec.yml
+
+#Folders_CsC
+node_modules
+
